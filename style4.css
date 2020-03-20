@@ -1,0 +1,107 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+	list-style: none;
+	font-size: 14px;
+	text-decoration: none;
+}
+div.wrapper {
+	width: 980px;
+	margin: 20px auto;
+}
+div.menu-title {
+	border-bottom: 1px solid #00ACC1;
+}
+div.menu-title h3 {
+	display: inline-block;
+	color: white;
+	padding: 6px 10px;
+	background: #00ACC1;
+	font-weight: normal;
+	font-family: sans-serif;
+}
+ul.menu-content {
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 25px;
+}
+ul.menu-content li {
+	flex-basis: 25%;
+	margin-bottom: 18px;
+	height: 25px;
+	line-height: 25px;
+	background-image: url(laban-icon.png);
+	background-repeat: no-repeat;
+}
+ul.menu-content li a {
+	padding-left: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: black;
+	font-family: Roboto;
+}
+ul.menu-content li a:hover {
+	color: #00acc1;
+	text-shadow: 0.5px 0px 0px #00acc1;
+}
+ul.menu-content li:nth-child(1) {
+	background-position: 0px -5px;
+}
+ul.menu-content li:nth-child(2) {
+	background-position: 0px -57px;
+}
+ul.menu-content li:nth-child(3) {
+	background-position: 0px -109px;
+}
+ul.menu-content li:nth-child(4) {
+	background-position: 0px -161px;
+}
+ul.menu-content li:nth-child(5) {
+	background-position: 0px -213px;
+}
+ul.menu-content li:nth-child(6) {
+	background-position: 0px -265px;
+}
+ul.menu-content li:nth-child(7) {
+	background-position: 0px -317px;
+}
+ul.menu-content li:nth-child(8) {
+	background-position: 0px -369px;
+}
+ul.menu-content li:nth-child(9) {
+	background-position: 0px -421px;
+}
+ul.menu-content li:nth-child(10) {
+	background-position: 0px -473px;
+}
+ul.menu-content li:nth-child(11) {
+	background-position: 0px -525px;
+}
+ul.menu-content li:nth-child(12) {
+	background-position: 0px -577px;
+}
+ul.menu-content li:nth-child(13) {
+	background-position: 0px -629px;
+}
+ul.menu-content li:nth-child(14) {
+	background-position: 0px -681px;
+}
+ul.menu-content li:nth-child(15) {
+	background-position: 0px -681px;
+}
+ul.menu-content li:nth-child(16) {
+	background-position: 0px -733px;
+}
+ul.menu-content li:nth-child(17) {
+	background-position: 0px -785px;
+}
+ul.menu-content li:nth-child(18) {
+	background-position: 0px -837px;
+}
+ul.menu-content li:nth-child(19) {
+	background-position: 0px -889px;
+}
+
+
