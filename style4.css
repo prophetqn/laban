@@ -44,7 +44,7 @@ ul.menu-content li a {
 }
 ul.menu-content li a:hover {
 	color: #00acc1;
-	font-weight: bold;
+	text-shadow: 0.5px 0px 0px #00acc1;
 }
 ul.menu-content li:nth-child(1) {
 	background-position: 0px -5px;
